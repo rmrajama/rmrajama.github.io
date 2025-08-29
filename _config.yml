@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lab name here"
+title                    : "R. Rajamäki"
 title_separator          : "-"
-name                     : &name "Robin Rajamäki"
+name                     : &name "Robin Rajamäki (D.Sc)"
 description              : &description "Assistant Professor at Tampere University"
 url                      : https://rmrajama.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
