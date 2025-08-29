@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "X X"
+title                    : "Lab name here"
 title_separator          : "-"
-name                     : &name "X X"
+name                     : &name "Robin Rajamäki"
 description              : &description "Assistant Professor at Tampere University"
 url                      : https://rmrajama.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,21 +23,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "X X"
+  name             : "Robin Rajamäki"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Robin Rajamäki (Member, IEEE) received his D.Sc. degree in electrical engineering in 2021 from Aalto University, Finland. From 2022-2024, he was a postdoctoral scholar at the University of California San Diego, USA. He is currently an assistant professor at Tampere University, Finland. His research interests lie in the intersection of theory and applications of statistical signal processing, optimization, and machine learning, with a focus on multisensor systems in sensing and wireless communications."
   location         : "Finland"
   employer         : "Tampere University"
   uri              : # URL
-  email            : "x.x@tuni.fi" 
+  email            : "robin.rajamaki@tuni.fi" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Rajamäki%2C+R"# URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_ubr3QoAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5028-6022"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/rmrajama" #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
