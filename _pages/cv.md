@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Signal Processing (Electrical Engineering), Aalto University, 2021 
+* D.Sc. in Signal Processing (Electrical Engineering), Aalto University, 2021 
 
 Professional experience
 ======
