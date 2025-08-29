@@ -11,45 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in XX, YY University, 2021 
+* Ph.D in Signal Processing (Electrical Engineering), Aalto University, 2021 
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Z
-  * Place
-  * Duties includes: 
-  * Supervisor: X
 
-* Fall 2015: Z
-  * Y
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2025-->: Assistant Professor
+  * Tampere University, Finland
+* 2022--2025: Postdoctoral researcher
+  * Aalto University, Finland
+  * Advisor: Prof. Visa Koivunen
+* 2022--2024: Postdoctoral researcher
+  * University of California San Diego, USA
+  * Advisor: Prof. Piya Pal
