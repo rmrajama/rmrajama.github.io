@@ -18,9 +18,9 @@ Professional experience
 
 * 2025-: Assistant Professor
   * Tampere University, Finland
-* 2022-2025: Postdoctoral researcher
-  * Aalto University, Finland
-  * Advisor: Prof. Visa Koivunen
 * 2022-2024: Postdoctoral researcher
   * University of California San Diego, USA
   * Advisor: Prof. Piya Pal
+* 2021,2024-2025: Postdoctoral researcher
+  * Aalto University, Finland
+  * Advisor: Prof. Visa Koivunen
