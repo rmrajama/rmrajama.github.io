@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hhf856.JPG" #"profile.png"
   name             : "Robin Rajamäki"
   pronouns         : # example: "she/her"  
   bio              : "Researcher focusing on signal processing for multisensor systems."
